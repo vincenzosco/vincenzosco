@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/vincenzosco">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=1BA1E2&center=true&vCenter=true&width=520&height=40&lines=App+developer+from+Calabria;Android+apps+in+Kotlin;iOS+apps+in+Swift;Still+tinkering+with+Windows+Phone" alt="Typing animation: app developer from Calabria, Android apps in Kotlin, iOS apps in Swift, still tinkering with Windows Phone">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=1BA1E2&center=true&vCenter=true&width=520&height=40&lines=App+developer+from+Calabria;Android+apps+in+Kotlin;iOS+apps+in+Swift;Still+tinkering+with+Windows+Phone" alt="Typing animation: app developer from Italy, still tinkering with Windows Phone">
   </a>
 </p>
 
@@ -23,14 +23,9 @@
   <img src="https://img.shields.io/badge/iOS-Swift-FA6800?logo=swift&logoColor=white" alt="iOS with Swift">
 </p>
 
-I'm Vincenzo, an app developer from Bovalino, in Calabria. I write mobile apps, and I have a long-running habit of making old hardware do things it wasn't meant to do.
+I'm Vincenzo, an app developer from Italy. I write mobile apps, and I have a long-running habit of making old hardware do things it wasn't meant to do.
 
 ## What I build
-
-Two radio apps, one per platform, written natively:
-
-- **RadioVenereApp**: the Android app, in Kotlin.
-- **RadioVenereAppSwift**: the iOS app, in Swift.
 
 Outside those I keep a NAS running Docker, render VFX in Blender, and collect retro computing gear.
 
@@ -38,7 +33,7 @@ Outside those I keep a NAS running Docker, render VFX in Blender, and collect re
   <img src="https://skillicons.dev/icons?i=kotlin,swift,cs,androidstudio,xcode,visualstudio,docker,blender&perline=8" alt="Icons for Kotlin, Swift, C#, Android Studio, Xcode, Visual Studio, Docker and Blender">
 </p>
 
-Currently learning: Flutter, and LEGO SPIKE Prime in Python.
+Currently learning: Flutter, C# and XAML for Windows Phone
 
 ## Windows Phone corner
 
