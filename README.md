@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vincenzo&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=app%20developer%20%C2%B7%20Bovalino%2C%20Calabria&descAlignY=58" width="100%" alt="Wave banner with the name Vincenzo and the text app developer, Bovalino, Calabria">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vincenzo&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=app%20developer%20%C2%B7%20Bovalino%2C%20Calabria&descAlignY=58" width="100%" alt="Wave banner with the name Vincenzo and the text app developer, From Italy">
 </p>
 
 <h2 align="center">Hi there 👋</h2>
@@ -19,8 +19,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vincenzosco&label=profile+views&color=1ba1e2&style=flat" alt="Profile views counter">
   <img src="https://img.shields.io/badge/Windows%20Phone-8.1%20%7C%2010%20Mobile-1BA1E2?logo=windows&logoColor=white" alt="Windows Phone 8.1 and Windows 10 Mobile">
-  <img src="https://img.shields.io/badge/Android-Kotlin-A4C400?logo=android&logoColor=white" alt="Android with Kotlin">
-  <img src="https://img.shields.io/badge/iOS-Swift-FA6800?logo=swift&logoColor=white" alt="iOS with Swift">
 </p>
 
 I'm Vincenzo, an app developer from Italy. I write mobile apps, and I have a long-running habit of making old hardware do things it wasn't meant to do.
